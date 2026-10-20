@@ -1,0 +1,74 @@
+########################################
+# Syntax Coloring Map For LP581X Library
+########################################
+
+########################################
+# Datatypes (KEYWORD1)
+########################################
+
+LP58XX	KEYWORD1
+LP5817  KEYWORD1
+LP5816  KEYWORD1
+LP5815  KEYWORD1
+LP5814  KEYWORD1
+
+########################################
+# Methods and Functions (KEYWORD2)
+########################################
+
+begin				KEYWORD2
+enable				KEYWORD2
+disable				KEYWORD2
+reset				KEYWORD2
+update				KEYWORD2
+setMaxCurrent			KEYWORD2
+enableOutput			KEYWORD2
+enableFade			KEYWORD2
+setFadeTime			KEYWORD2
+setFadeType			KEYWORD2
+setWorkingMode			KEYWORD2
+setCurrent			KEYWORD2
+setPWM				KEYWORD2
+setOutEngine			KEYWORD2
+setEnginePatternOrder		KEYWORD2
+enableEnginePatternOrder	KEYWORD2
+setEngineRepeatTime		KEYWORD2
+setPatternPauseTime		KEYWORD2
+setPatternRepeatTime		KEYWORD2
+setPWMPattern			KEYWORD2
+setPatternSloperTime		KEYWORD2
+startAutonomousAnimation	KEYWORD2
+pauseAutonomousAnimation	KEYWORD2
+continueAutonomousAnimation	KEYWORD2
+stopAutonomousAnimation		KEYWORD2
+checkFlag			KEYWORD2
+clearFlag			KEYWORD2
+
+########################################
+# Constants (LITERAL1)
+########################################
+
+OUT0		LITERAL1
+OUT1		LITERAL1
+OUT2		LITERAL1
+OUT3		LITERAL1
+EXPONENTIAL	LITERAL1
+LINEAR		LITERAL1
+AUTOMATIC	LITERAL1
+MANUAL		LITERAL1
+ENGINE0		LITERAL1
+ENGINE1		LITERAL1
+ENGINE2		LITERAL1
+ENGINE3		LITERAL1
+PATTERN0	LITERAL1
+PATTERN1	LITERAL1
+PATTERN2	LITERAL1
+PATTERN3	LITERAL1
+ENABLE		LITERAL1
+DISABLE		LITERAL1
+ONCE		LITERAL1
+TWICE		LITERAL1
+THRICE		LITERAL1
+INFINITE	LITERAL1
+
+
