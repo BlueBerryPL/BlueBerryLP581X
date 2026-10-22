@@ -5,4 +5,4 @@ Library has been tested using custom LP581X demonstration boards, designed and a
 
 This Library is licensed under the MIT License.
 
-Propper documentation will be avaliable soon.
+Documentation is avaliable in doc folder.
